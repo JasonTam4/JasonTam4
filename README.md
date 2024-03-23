@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonTam4
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on website design
+- 🌱 I’m currently learning pandas
+- 💞️ 
 - 📫 How to reach me jtam249@uwo.ca
 <!---
 JasonTam4/JasonTam4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
